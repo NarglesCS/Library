@@ -1,3 +1,1 @@
-Files are just the tutorial project for react. 
-
-I did not create them; simply retyped, and they are here for my reference.
+Files are just a tutorial project for react. But they show the understanding I have gained working with React.
